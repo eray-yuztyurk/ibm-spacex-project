@@ -3,6 +3,8 @@
 
 -----
 
+<img width="1024" height="1536" alt="spacex-rocket" src="https://github.com/user-attachments/assets/592949d9-ec27-4ea1-bfce-48821f7c3b92" />
+
 The project aims to predict the successful landing of the Falcon 9 first stage, a critical factor in SpaceX rocket launches. This prediction bears substantial financial implications, given that SpaceX's reusability of the first stage significantly lowers launch costs compared to other providers. Priced at $62 million per launch, Falcon 9 launches stand in stark contrast to competitors, which can cost upwards of $165 million each.​
 
 Accurately determining the success of the first stage landing is essential for estimating launch costs, especially when competing companies are vying for rocket launch contracts against SpaceX.​
