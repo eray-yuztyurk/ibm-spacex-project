@@ -1,29 +1,42 @@
-# SpaceX Launch Analysis Project
+<h1 align="center">SpaceX Launch Analysis Project</h1>
 
 This repository contains a compact, end-to-end data science project built using publicly available SpaceX launch data. It includes data collection, wrangling, exploratory analysis, folium-based geospatial mapping, basic SQL experiments, and a simple machine learning model to explore launch outcome predictions.  
 All stages are implemented in Jupyter notebooks, accompanied by a lightweight Dash app for interactive exploration. A concise PDF report summarizing the workflow and results is included.
 
 ---
-
-## 📑 Table of Contents
-- [Project Overview](#project-overview)
-- [Repository Structure](#repository-structure)
-- [Technologies and Libraries](#technologies-and-libraries)
-- [Quick Start](#quick-start)
-- [Installation and Environment](#installation-and-environment)
-- [Running the Notebooks](#running-the-notebooks)
-- [Running the Dash App](#running-the-dash-app)
-- [Data Sources and Notes](#data-sources-and-notes)
-- [Machine Learning Summary](#machine-learning-summary)
-- [Results and Evaluation](#results-and-evaluation)
-- [Project Report](#project-report)
-- [Tests (Notes)](#tests-notes)
-- [Contributing](#contributing)
-- [License and Contact](#license-and-contact)
-- [Acknowledgements](#acknowledgements)
-
----
-<img width="1024" height="1536" alt="spacex-rocket" src="https://github.com/user-attachments/assets/592949d9-ec27-4ea1-bfce-48821f7c3b92" />
+<table align="center">
+  <tr>
+    <!-- LEFT: TABLE OF CONTENTS -->
+    <td align="left" width="60%" style="vertical-align: top;">
+      <h3>📑 Table of Contents</h3>
+      <ul>
+        <li><a href="#project-overview">Project Overview</a></li>
+        <li><a href="#repository-structure">Repository Structure</a></li>
+        <li><a href="#technologies-and-libraries">Technologies and Libraries</a></li>
+        <li><a href="#quick-start">Quick Start</a></li>
+        <li><a href="#installation-and-environment">Installation and Environment</a></li>
+        <li><a href="#running-the-notebooks">Running the Notebooks</a></li>
+        <li><a href="#running-the-dash-app">Running the Dash App</a></li>
+        <li><a href="#data-sources-and-notes">Data Sources and Notes</a></li>
+        <li><a href="#machine-learning-summary">Machine Learning Summary</a></li>
+        <li><a href="#results-and-evaluation">Results and Evaluation</a></li>
+        <li><a href="#project-report">Project Report</a></li>
+        <li><a href="#tests-notes">Tests (Notes)</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#license-and-contact">License and Contact</a></li>
+        <li><a href="#acknowledgements">Acknowledgements</a></li>
+      </ul>
+    </td>
+    <!-- RIGHT: IMAGE -->
+    <td align="center" width="40%">
+      <img 
+        width="700"
+        alt="spacex-rocket"
+        src="https://github.com/user-attachments/assets/592949d9-ec27-4ea1-bfce-48821f7c3b92"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -196,36 +209,7 @@ Example insights:
 
 IBM - SpaceX Project.pdf provides a structured summary of the overall workflow, results, and conclusions.
 
----
 
-## Tests (Notes)
-
-- No automated tests are included yet.
-
-Possible future additions:
-- pytest-based tests for helper scripts  
-- Notebook validation (nbval / papermill)  
-- GitHub Actions CI workflows
-
----
-
-## Contributing
-
-This project serves as a personal learning artifact, but contributions or suggestions are welcome. You can:
-- Open an issue  
-- Submit a pull request
-
-Suggested enhancements:
-- Add a requirements.txt / environment.yml  
-- Add automated testing  
-- Add a LICENSE file
-
----
-
-## License and Contact
-
-- No license is included yet. Consider adding MIT or Apache 2.0 if you plan to share or accept contributions.  
-- For questions or suggestions, please open an issue in the repository.
 
 ---
 
