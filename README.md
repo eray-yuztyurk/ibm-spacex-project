@@ -7,30 +7,25 @@ All stages are implemented in Jupyter notebooks, accompanied by a lightweight Da
 <table align="center">
   <tr>
     <!-- LEFT: TABLE OF CONTENTS -->
-    <td align="left" width="60%" style="vertical-align: top;">
+    <td align="center" width="60%" style="vertical-align: top;">
       <h3>📑 Table of Contents</h3>
-      <ul>
-        <li><a href="#project-overview">Project Overview</a></li>
-        <li><a href="#repository-structure">Repository Structure</a></li>
-        <li><a href="#technologies-and-libraries">Technologies and Libraries</a></li>
-        <li><a href="#quick-start">Quick Start</a></li>
-        <li><a href="#installation-and-environment">Installation and Environment</a></li>
-        <li><a href="#running-the-notebooks">Running the Notebooks</a></li>
-        <li><a href="#running-the-dash-app">Running the Dash App</a></li>
-        <li><a href="#data-sources-and-notes">Data Sources and Notes</a></li>
-        <li><a href="#machine-learning-summary">Machine Learning Summary</a></li>
-        <li><a href="#results-and-evaluation">Results and Evaluation</a></li>
-        <li><a href="#project-report">Project Report</a></li>
-        <li><a href="#tests-notes">Tests (Notes)</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license-and-contact">License and Contact</a></li>
-        <li><a href="#acknowledgements">Acknowledgements</a></li>
-      </ul>
+        <a href="#project-overview">Project Overview</a><br>
+        <a href="#repository-structure">Repository Structure</a><br>
+        <a href="#technologies-and-libraries">Technologies and Libraries</a><br>
+        <a href="#quick-start">Quick Start</a><br>
+        <a href="#installation-and-environment">Installation and Environment</a><br>
+        <a href="#running-the-notebooks">Running the Notebooks</a><br>
+        <a href="#running-the-dash-app">Running the Dash App</a><br>
+        <a href="#data-sources-and-notes">Data Sources and Notes</a><br>
+        <a href="#machine-learning-summary">Machine Learning Summary</a><br>
+        <a href="#results-and-evaluation">Results and Evaluation</a><br>
+        <a href="#project-report">Project Report</a><br>
+        <a href="#acknowledgements">Acknowledgements</a><br>
     </td>
     <!-- RIGHT: IMAGE -->
     <td align="center" width="40%">
       <img 
-        width="700"
+        width="500"
         alt="spacex-rocket"
         src="https://github.com/user-attachments/assets/592949d9-ec27-4ea1-bfce-48821f7c3b92"
       />
@@ -207,9 +202,7 @@ Example insights:
 
 ## Project Report
 
-IBM - SpaceX Project.pdf provides a structured summary of the overall workflow, results, and conclusions.
-
-
+You can read the full report here:  [IBM - SpaceX Project.pdf](https://github.com/eray-yuztyurk/ibm-spacex-project/blob/main/IBM%20-%20SpaceX%20Project.pdf)
 
 ---
 
